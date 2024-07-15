@@ -1,4 +1,10 @@
 //code to check if a string is palindrome
+/**
+*@returns 
+*checks if the given word reads the same backwords and forward.
+*returns a boolean for the condition
+*@auther just_jeff(i_am_pangu-@ig)
+*/
 
 public class palindrome {
   static boolean isPalindrome(String word) {
